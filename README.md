@@ -29,13 +29,13 @@ Projet communautaire Minecraft dont je suis le président. Développement de plu
 
 ## 📈 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ryanmcyt&show_icons=true&theme=radical)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanmcyt&layout=compact&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryanmcyt&theme=github_dark)
+![Statistiques](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryanmcyt&theme=github_dark)
+![Langages Principaux](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanmcyt&theme=github_dark)
 
 ## 📫 Contact
 
-- **Discord :** ryanmcyt
+- **Discord :** ryanmcyt (Suspendu) / ryanmcyt_test
 - **Email :** ryanmcyt@ryanmcyt.fr
 - **Serveur Discord :** https://discord.gg/bGaKpVpvqZ
 
