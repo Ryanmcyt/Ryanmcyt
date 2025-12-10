@@ -23,7 +23,7 @@ Projet communautaire Minecraft dont je suis le président. Développement de plu
 ## 🌐 Mes réseaux
 
 - **YouTube :** [Ryanmcyt1](https://youtube.com/@Ryanmcyt1)
-- **Twitch :** [Ryanmcyt0](https://twitch.tv/ryanmcyt1)
+- **Twitch :** [Ryanmcyt1](https://twitch.tv/ryanmcyt1)
 - **Twitter/X :** [@Ryanmcyt1](https://twitter.com/Ryanmcyt1)
 - **Discord communautaire :** [Rejoins-nous](https://discord.gg/bGaKpVpvqZ)
 
